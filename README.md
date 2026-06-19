@@ -218,7 +218,7 @@ Se sim, explique cada posição e de qual fonte ela vem.
 2. Crie um novo notebook e faça upload das 5 fontes listadas na seção 2;
 3. Use os prompts da seção 4.3 como ponto de partida para suas próprias perguntas;
 4. Compare suas respostas com o resumo da seção 4.1 para validar o entendimento.
-
+5. https://notebooklm.google.com/notebook/94e15cc0-8acd-44bc-854d-32a88216ed4e
 ---
 
 *Projeto desenvolvido como parte do desafio de projeto da [DIO](https://www.dio.me/) — uso de IA generativa para aprendizagem ativa.*
